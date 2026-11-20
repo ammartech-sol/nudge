@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="nudge_primary">#4F46E5</color>
+    <color name="nudge_background">#F5F7FB</color>
+    <color name="nudge_text">#1F2937</color>
+    <color name="nudge_text_secondary">#6B7280</color>
+</resources>
